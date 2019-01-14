@@ -17,9 +17,11 @@ https://github.com/andrei-q/vsu-pytorch
 
 #### Доступ к удаленному серверу на AWS:
 
-Public DNS:  **ec2-52-47-112-184.eu-west-3.compute.amazonaws.com**
+Public DNS:  **ec2-35-180-138-129.eu-west-3.compute.amazonaws.com**
 
-Public IP:  **52.47.112.184**
+Public IP:  **35.180.138.129**
+
+Private IP: **172.31.44.80**
 
 Имя пользователя: **userNN**, где NN - номер в журнале.
 
